@@ -1,0 +1,38 @@
+# Ghost in the Shell — Newport City at night.
+# Desaturated teal glass and rain, amber cyberbrain readouts,
+# a violet flicker from the net dive.
+
+mode = "dark"
+
+accent = "#31d6b6"
+selection = "#1b3b3d"
+muted = "#2e4d50"
+
+background = "#0a1416"
+dark_background = "#071012"
+darker_background = "#040a0b"
+lighter_background = "#122326"
+
+foreground = "#bcd4d0"
+dark_foreground = "#5b7d7c"
+light_foreground = "#cfe6e1"
+bright_foreground = "#e9fffb"
+
+active_border_color = "#31d6b6"
+active_tab_background = "#1b3b3d"
+
+red = "#e0574f"
+yellow = "#d9a441"
+orange = "#e07b39"
+green = "#6fc08a"
+cyan = "#31d6b6"
+blue = "#4f9fc2"
+magenta = "#a878c9"
+brown = "#6b5238"
+
+bright_red = "#ff6f63"
+bright_yellow = "#f2bd55"
+bright_green = "#8adca4"
+bright_cyan = "#5cf0d4"
+bright_blue = "#6fbfe0"
+bright_magenta = "#c294e6"
